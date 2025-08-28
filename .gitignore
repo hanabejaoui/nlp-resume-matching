@@ -1,0 +1,27 @@
+# Ignore virtual environment folders
+venv/
+venv39/
+.env
+
+# Ignore Python cache/bytecode files
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Python cache & virtual environments
+__pycache__/
+*.pyc
+.venv/
+env/
+*.egg-info/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+

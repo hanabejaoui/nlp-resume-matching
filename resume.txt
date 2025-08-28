@@ -1,0 +1,84 @@
+MAISSA
++216 58063153
+maissabfr@gmail.com
+BEN FREDJ
+Maissa BEN FREDJ
+mayssabenfredj
+FULL STACK DEVELOPER
+Maissa’s Portfolio
+PROFILE
+Actuellement Full Stack Developer chez SolidWall et en deuxième année de Master en informatique, je
+suis passionnée par les nouvelles technologies et le développement de solutions innovantes. Mon
+parcours académique et professionnel m’a permis de consolider mes compétences en
+développement web et mobile, tout en restant en veille constante sur les dernières tendances
+technologiques.
+ÉDUCATION
+2023 - actuellement MASTER PROFESSIONNEL ISET Rades
+Master professionnel developpement des application mobile
+2020 - 2023 LICENCE APPLIQUÉE ISET Rades
+Diplôme en développement des systèmes d'informations (DSI)
+EXPERIENCE
+02/2023 - actuellement DEVELOPPEMENT WEB ET MOBILE
+Solid Wall Consulting
+Compétences : Html , Css , Tailwind, React Native , Nestjs ,PostgreSql , Prisma , PowerBi , Scrum
+02/2024 - 08/2024 DEVELOPPEMENT WEB ET MOBILE
+Maker Skills
+Compétences : Html , Css , Tailwind, React Native , Nestjs ,PostgreSql , Prisma , PowerBi , Scrum
+09/2024 - 01/2025 STOCKGESTE
+Freelance API REST avec NestJS, PostgreSQL, et TypeORM.
+Notifications en temps réel via Firebase et Socket.IO.
+Authentification OTP avec Twilio et Nodemailer.
+Stockage de fichiers sur Contabo Storage.
+Connexion unique par appareil (OneToOne).
+Scan et génération de codes-barres, création de factures et rapports.
+Multilingue avec i18n.
+Compétences : React Native, NestJS, PostgreSQL, TypeORM, Firebase, Twilio, Contabo Storage, i18n.
+06/2024 - 07/2024 SITE VITRINE
+Freelance Création des sites vitrine pour plusieurs clients
+Qawl.fr
+woesd.fr
+odas.fr
+mobilplus.fr
+Compétences : Html , Css , Wordpress
+02/2023 - 06/2023 PROJET FIN D'ÉTUDE <ERASMUS>
+ISET Rades
+Application de la méthodologie Scrum pour la gestion du projet.
+l l'utilisation de Microsoft Power BI pour créer des rapport
+Création et gestion de la base de données avec Prisma et PostgreSQL.
+Intégration d'un système de notification par e-mail
+Mise en place d'un quiz d'évaluation pour les utilisateurs.
+Compétences : Html , Css , Bootstrap , Angular , Nestjs ,PostgreSql , Prisma , PowerBi , Scrum
+PROJETS
+Dari React Native/ Expo/ MQTT / Firebase
+une application mobile dédiée à la surveillance en temps réel des niveaux de CO2. Elle
+propose des fonctionnalités de visualisation des données historiques et de suivi via MQTT
+pour une gestion optimale de la qualité de l'air intérieur.
+Ykifech React Native/ Expo / Nestjs
+Une application mobile dédiée à la découverte de bons plans à visiter. Elle propose des
+fonctionnalités de recherche et de filtrage avancées selon le mode d'exploration souhaité.
+Binomi Flutter/Nestjs
+Une application mobile qui permet de rechercher des colocations, trouver des maisons à
+louer ou publier des annonces. Avec des filtres avancés, les utilisateurs peuvent affiner leurs
+recherches selon leurs besoins.
+ToDo Android studio Java
+Une application mobile To Do pratique, avec calendrier intégré, sécurité par empreinte
+digitale, widget pour un accès rapide, et utilisation efficace de SQLite. Exploite également les
+capteurs d'orientation pour une meilleure expérience utilisateur.
+Météo Android studio Java
+une application météo créée avec Android Studio en utilisant Java, alimentée par l'API
+OpenWeatherMap.
+eventy Angular , Nestjs , MongoDb , tailwind
+L'application web "Clubs Event Management" offre une gestion des événements, avec
+fonctionnalités CRUD, authentification sécurisée, et envoi d'e-mails de confirmation. Les
+administrateurs bénéficient d'un tableau de bord pour gérer les événements et les
+participants, avec des fonctionnalités de performance et de sécurité intégrées.
+COMPÉTENCES TÉCHNIQUE
+Html Css PHP Java JavaScript
+Angular Nestjs Android studio Flutter React Native Nesxtjs
+MongoDb SQL PostgreSql Power Bi
+Word Power Point Excel Canva Figma Adobe XD
+Uml StarUml Draw.io Git Jira Agile Scrum
+VIE ASSOCIATIVE LANGUE
+Ancienne Membre Croissant Rouge ISET RADES Français B2
+Ancienne Membre Scout Manzel Abderrahmen Anglais B2
+Arabe C1

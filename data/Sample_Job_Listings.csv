@@ -1,0 +1,11 @@
+id,title,applylink,description,companyName,location,experience,salaryUnit,salary,jobtype,requiredSkills,profileLevel,categoryId
+1,Data Engineer Intern,https://apply.example.com/1,Assist in building ETL pipelines and data warehouses.,Acme Corp,"New York, NY",0-1 years,USD,0-0,Internship,Python;SQL;Airflow,Entry,1
+2,Machine Learning Engineer,,Develop and deploy machine learning models.,Globex,"San Francisco, CA",2-4 years,USD,40k-60k,FullTime,Python;TensorFlow;Docker,Mid,2
+3,DevOps Specialist,https://apply.example.com/3,Maintain CI/CD pipelines and cloud infrastructure.,Initech,Remote,3+ years,USD,70k-90k,FullTime,Kubernetes;Terraform;AWS,Senior,3
+4,Backend Developer,https://apply.example.com/4,Implement RESTful APIs and microservices.,Umbrella,"Boston, MA",1-3 years,USD,50k-70k,FullTime,Java;Spring;MySQL,Mid,2
+5,Frontend Developer,,Create responsive user interfaces with React.,Stark Industries,"Los Angeles, CA",0-2 years,USD,45k-65k,FullTime,JavaScript;React;CSS,Entry,2
+6,AI Research Scientist,https://apply.example.com/6,Research and prototype novel AI architectures.,Wayne Enterprises,"Chicago, IL",5+ years,USD,80k-100k,Research,Python;PyTorch;Research,Senior,5
+7,Product Manager,https://apply.example.com/7,Define product requirements and roadmaps.,Wonka Industries,"Austin, TX",3-5 years,USD,60k-80k,FullTime,Roadmapping;Agile;Communication,Mid,4
+8,QA Automation Engineer,,Design and execute automated test suites.,Cyberdyne,"Seattle, WA",2+ years,USD,55k-75k,FullTime,Selenium;Java;Testing,Mid,3
+9,Cloud Architect,https://apply.example.com/9,Architect and optimize cloud deployments.,Tyrell Corp,"Denver, CO",4+ years,USD,90k-120k,FullTime,AWS;Azure;GCP,Senior,6
+10,Business Analyst,https://apply.example.com/10,Analyze business processes and requirements.,Dunder Mifflin,"Miami, FL",1+ years,USD,50k-70k,FullTime,Excel;UML;Analysis,Entry,4

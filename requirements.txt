@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+spacy==2.3.5
+pdfplumber
+pdfminer.six
+nltk
+yake
