@@ -1,0 +1,27 @@
+EVELYNN ADAMS
+GRADUATE FRESHER
+PROFESSIONAL PROFILE EMPLOYMENT HISTORY
+I am a recent graduate who is interested E-Novate Labs
+and fascinated by Machine learning. I
+Intern Trainee, Aug 2020 to Dec 2020
+want to join this industry and be a part of
+it, learn and contribute towards both the I was trained on how to use Neural networks w.r.t to classical
+growth of the company and me as an problems that existed in Machine Learning.
+Indivuduals in terms of skills. During the Capstone project I created a supervised model for
+Image recognition with minimal training.
+PROFICIENT SKILLS
+Machine Learning, Deep Learning, Neural
+Networks, ML Algorithms, Python, NumPy,
+Scikit Learn, Matplotlib, Keras, Pandas,
+TensorFlow, Seaborn, Java, ReactJS,
+NodeJS.
+ACHIEVEMENTS AND EXTRA EDUCATIONAL HISTORY
+CURRICULARS
+Lucknow University
+Certified Entry Level Python Programmer
+B.Sc (Computer Science) KTM College, Nashik, 2019
+Certified Associate Level in Python
+MCA (Computers), SPP University, Pune, 2021
+Programming
+PROJECTS
+Deep Learning assisted Image recognition.

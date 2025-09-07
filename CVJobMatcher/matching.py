@@ -9,7 +9,7 @@ using TF–IDF text features and cosine similarity.
 
 How it works (high level)
 -------------------------
-1) Load jobs CSV and build a "combined" text per job: title + description.
+1) Load jobs CSV and build a "combined" text per job: title + description + requiredskills.
 2) Load the CV:
    - If it's a PDF, call `data_preparation_CV.py` to extract raw text.
    - If it's a TXT, read it directly.

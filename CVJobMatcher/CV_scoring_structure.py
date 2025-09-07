@@ -11,8 +11,8 @@ from pyresparser import ResumeParser
 # Define essential sections and map to ResumeParser keys
 EXPECTED_SECTIONS = {
     "email": ["email"],
-    "education": ["degree"],
-    "experience": ["experience"],
+    "education": ["education","educational_history", "degree", "college_name", "university", "college"],
+    "experience": ["experience", "designation", "company_names", "total_experience", "experience_years"],
     "skills": ["skills"]
 
 }
